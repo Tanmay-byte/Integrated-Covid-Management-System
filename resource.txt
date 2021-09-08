@@ -1,0 +1,5 @@
+Covishield:299
+Covaxin: 200
+Sputnik: 200
+Beds: 800
+OxygenCylinder: 200
